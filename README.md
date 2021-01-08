@@ -8,4 +8,4 @@ Quick and dirty email cleaner. Not recommended to modify emails like this, but d
     - Cleans up common email mistakes ands removed invalid email combinations
     - Adds new emails to base emails.csv
     - Exports clean emails as a csv file
-3. Upload csv files
+3. Upload csv files to your destination of choice
