@@ -1,1 +1,3 @@
-EmailCleaner
+Email Cleaner
+
+Quick and dirty email cleaner. Not recommended to modify emails like this, but desperate times...
